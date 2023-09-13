@@ -5,4 +5,4 @@
 **Fall**
 |#|session |keywords |
 |:--:||:--:||:--:|
-|1|code cells|[variable,assign]()
+|1|code cells|[variable,assign](https://github.com/ms624atyale/NLP_2023)
