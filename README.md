@@ -6,4 +6,4 @@
 
 |#|session |keywords |
 |:--:||:--:||:--:|
-|1|code cells|[variable,assign]([https://github.com/ms624atyale/NLP_2023](https://github.com/hyojinjin/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)https://github.com/hyojinjin/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)
+|1|code cells|[variable,assign](https://github.com/hyojinjin/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)
