@@ -10,3 +10,4 @@
 
 "Hello World"
 'python is fun'
+"""Life is too short, You need python"""
