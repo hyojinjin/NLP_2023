@@ -33,5 +33,5 @@
 |#|session|keywords|
 |:--:|:--:|:--:|
 |1|code cells|[variable,assign](https://github.com/hyojinjin/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb)
-| 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](
+| 2 | Five Types of Data 📋| [number, string, list, tuple, dictionary](https://colab.research.google.com/github/hyojinjin/NLP_2023/blob/main/2_FiveTypesofData.ipynb)
 
